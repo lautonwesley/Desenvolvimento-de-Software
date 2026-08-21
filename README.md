@@ -14,22 +14,22 @@ Este repositório funciona como um registro da minha evolução como desenvolved
 
 Cada curso possui uma estrutura própria, contendo conteúdos estudados, exercícios práticos, desafios e, quando aplicável, projetos desenvolvidos para consolidar os conhecimentos adquiridos.
 
-A ideia é seguir uma jornada progressiva:
+A ideia é seguir uma jornada progressiva: </br>
 
-Fundamentos da Programação
-        ↓
-Linguagens de Programação
-        ↓
-Desenvolvimento Web
-        ↓
-Backend e APIs
-        ↓
-Banco de Dados
-        ↓
-Blockchain
-        ↓
-Web3 e dApps
-        ↓
+Fundamentos da Programação </br>
+        ↓ </br>
+Linguagens de Programação</br>
+        ↓ </br>
+Desenvolvimento Web </br>
+        ↓ </br>
+Backend e APIs </br>
+        ↓ </br>
+Banco de Dados </br>
+        ↓ </br>
+Blockchain </br>
+        ↓ </br>
+Web3 e dApps </br>
+        ↓ </br>
 DeFi e Aplicações Descentralizadas
 🎓 Cursos concluídos
 
@@ -67,7 +67,6 @@ Status: 🚧 Em andamento
 Estes são alguns dos cursos e tecnologias planejados para os próximos estágios da minha formação.
 
 💻 Linguagens e Fundamentos
-C
 JavaScript
 TypeScript
 🌐 Desenvolvimento Web
