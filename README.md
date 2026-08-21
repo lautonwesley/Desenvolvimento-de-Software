@@ -103,31 +103,31 @@ Desenvolvimento de aplicações DeFi
 
 Os cursos deste repositório seguem, sempre que possível, uma estrutura semelhante:
 
-Curso/
-│
-├── Módulo 1/
-│   ├── Aula 1/
-│   │   ├── Conteúdo
-│   │   ├── Exercícios
-│   │   └── Desafios
-│   │
-│   └── Aula 2/
-│
-├── Módulo 2/
-│
-└── Projeto Final/
+Curso </br>
+│</br>
+├── Módulo 1/ </br>
+│   ├── Aula 1/ </br>
+│   │   ├── Conteúdo/ </br>
+│   │   ├── Exercícios/ </br>
+│   │   └── Desafios/ </br>
+│   │ /</br>
+│   └── Aula 2/ </br>
+│/</br>
+├── Módulo 2/ </br>
+│/ </br>
+└── Projeto Final/ </br>
 
 A intenção é que cada curso não seja composto apenas por teoria, mas também por prática.
 
-Cada etapa pode incluir:
+Cada etapa pode incluir: </br>
 
-📖 Conteúdo e anotações
-💻 Exemplos de código
-🧩 Exercícios
-🔥 Desafios
-🚀 Projetos práticos
-🏆 Projeto final
-🚀 Minha jornada
+📖 Conteúdo e anotações  </br>
+💻 Exemplos de código </br>
+🧩 Exercícios </br>
+🔥 Desafios </br>
+🚀 Projetos práticos </br>
+🏆 Projeto final </br>
+🚀 Minha jornada </br>
 
 Este repositório representa uma construção contínua.
 
