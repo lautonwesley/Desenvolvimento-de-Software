@@ -110,11 +110,11 @@ Curso </br>
 │   │   ├── Conteúdo/ </br>
 │   │   ├── Exercícios/ </br>
 │   │   └── Desafios/ </br>
-│   │ /</br>
+│   │  </br>
 │   └── Aula 2/ </br>
-│/</br>
+│ </br>
 ├── Módulo 2/ </br>
-│/ </br>
+│  </br>
 └── Projeto Final/ </br>
 
 A intenção é que cada curso não seja composto apenas por teoria, mas também por prática.
